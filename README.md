@@ -8,6 +8,5 @@ a slack bot to remind my team when we have meetings! (v.1)
 ``` 
 export SLACK_BOT_TOKEN="xoxb-token"
 python3 bot.py 
-
 ```
 
